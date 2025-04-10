@@ -10,6 +10,6 @@ Mais sinon actuellement vous pourrait y retrouvé :
 
 --> Comme le Jeu des Pousses (alias Sprouts en anglais) !
 
---> Et un autres encore au stade d'idée...
+--> Et d'autres encore au stade d'idée...
 
 Merci de votre lecture !
