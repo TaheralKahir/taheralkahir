@@ -2,7 +2,7 @@
 
 Étudiant passionnée par les mathématiques et la programmation, je développe des petits projets mélant ces deux thèmes pendant mon temps libre. 
 
-## En actuellement : 
+## Actuellement : 
 - En L1 Mathématiques
 - Projet sur le jeu de Pousses
 - Création d'un Blog où j'y partage des exos/cours de Mathématiques.
