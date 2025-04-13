@@ -22,8 +22,8 @@
 - Doctorat en Mathématiques.
 
 ## Mes Contacts:
-- [Mail]:(thiernotheobah21@gmail.com)
-- [Blog]: (taheralkahir.github.io/)
-- [GitHiub]: (https://github.com/TaheralKahir/)
+- [Mail](thiernotheobah21@gmail.com)
+- [Blog](taheralkahir.github.io/)
+- [GitHiub](https://github.com/TaheralKahir/)
 
 Merci de votre lecture !
