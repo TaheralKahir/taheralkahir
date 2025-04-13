@@ -11,17 +11,17 @@
 ## Projets : 
 - Jeu des Pousses : Implémentation en Python + Analyse Mathématiques.
 
-## Mes Sujets Préférés (du moment) :
+## Sujets Préférés (du moment) :
 - La Théorie des Jeux.
 - La Théorie des Graphes.
 - L'Algèbre Linéaire.
 
-## Mes Objectifs :
+## Objectifs :
 - Créer des projets qui em plaisent.
 - Master en lien avec Mathématiques et/ou l'Informatique.
 - Doctorat en Mathématiques.
 
-## Mes Contacts:
+## Autres Liens:
 - [Mail](thiernotheobah21@gmail.com)
 - [Blog](taheralkahir.github.io/)
 - [GitHiub](https://github.com/TaheralKahir/)
