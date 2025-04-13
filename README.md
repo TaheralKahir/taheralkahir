@@ -23,6 +23,7 @@
 
 ## Mes Contacts:
 - [Mail]:(thiernotheobah21@gmail.com)
-- [Mon Blog]: ()
+- [Blog]: (taheralkahir.github.io/)
+- [GitHiub]: (https://github.com/TaheralKahir/)
 
 Merci de votre lecture !
