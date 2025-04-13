@@ -1,11 +1,11 @@
 # Salut, je m'appelle Thierno-Théo Bah,
 
-Étudiant passionnée par les mathématiques et la programmation, je développe des petits projets mélant ces deux thèmes pendant mon temps libre. 
+Étudiant passionnée par les mathématiques et l'informatique, je développe des petits projets mélant les deux thèmes, pendant mon temps libre. 
 
 ## Actuellement : 
-- En L1 Mathématiques
+- En L1 Mathématiques à Aix-Marseille Université.
 - Projet sur le jeu de Pousses
-- Création d'un Blog où j'y partage des exos/cours de Mathématiques.
+- Création d'un Blog où j'y partage des exos/cours de Mathématiques (En construction)
 - Prépare mes examens...
 
 ## Projets : 
@@ -17,8 +17,8 @@
 - L'Algèbre Linéaire.
 
 ## Objectifs :
-- Créer des projets qui em plaisent.
-- Master en lien avec Mathématiques et/ou l'Informatique.
+- Créer des projets qui me plaisent.
+- Master en lien avec les Mathématiques et/ou l'Informatique.
 - Doctorat en Mathématiques.
 
 ## Autres Liens:
