@@ -1,17 +1,28 @@
-# Salut, je suis Thierno-Théo Bah,
+# Salut, je m'appelle Thierno-Théo Bah,
 
-Étudiant passionnée par les mathématiques et la programmation, je développe des petits projets autours de ces deux thèmes pendant mon temps libre. 
+Étudiant passionnée par les mathématiques et la programmation, je développe des petits projets mélant ces deux thèmes pendant mon temps libre. 
 
-Mon Github est encore en développement donc il peut y avoir des grosses bourdes de ma part. 
+## En actuellement : 
+- En L1 Mathématiques
+- Projet sur le jeu de Pousses
+- Création d'un Blog où j'y partage des exos/cours de Mathématiques.
+- Prépare mes examens...
 
-Mais sinon actuellement vous pourrait y retrouvé : 
+## Projets : 
+- Jeu des Pousses : Implémentation en Python + Analyse Mathématiques.
 
-## Le dépôt de ma Page !
+## Mes Sujets Préférés (du moment) :
+- La Théorie des Jeux.
+- La Théorie des Graphes.
+- L'Algèbre Linéaire.
 
-## Plusieurs projets en développement autour de problème mathématique implémenté en Python !
+## Mes Objectifs :
+- Créer des projets qui em plaisent.
+- Master en lien avec Mathématiques et/ou l'Informatique.
+- Doctorat en Mathématiques.
 
---> Comme le Jeu des Pousses (alias Sprouts en anglais) !
-
---> Et d'autres encore au stade d'idée...
+## Mes Contacts:
+- [Mail]:(thiernotheobah21@gmail.com)
+- [Mon Blog]: ()
 
 Merci de votre lecture !
