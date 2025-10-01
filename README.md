@@ -3,10 +3,9 @@
 Étudiant passionnée par les mathématiques et l'informatique, je développe des petits projets mélant les deux thèmes, pendant mon temps libre. 
 
 ## Actuellement : 
-- En L1 Mathématiques à Aix-Marseille Université.
+- En L2 Mathématiques à Aix-Marseille Université.
 - Projet sur le jeu de Pousses
 - Création d'un Blog où j'y partage des exos/cours de Mathématiques (En construction)
-- Prépare mes examens...
 
 ## Projets : 
 - Jeu des Pousses : Implémentation en Python + Analyse Mathématiques.
